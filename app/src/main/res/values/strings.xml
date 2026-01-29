@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Book Sharing Community</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_upload">Upload</string>
+    <string name="nav_about">About</string>
+    
+    <!-- Home Fragment -->
+    <string name="available_books">Available Books</string>
+    <string name="no_books_available">No books available.\nTap + to add a book!</string>
+    <string name="add_book">Add Book</string>
+    
+    <!-- Upload Fragment -->
+    <string name="upload_new_book">Upload New Book</string>
+    <string name="book_title">Book Title</string>
+    <string name="author_name">Author Name</string>
+    <string name="description">Description</string>
+    <string name="image_url">Image URL</string>
+    <string name="upload_book">Upload Book</string>
+    <string name="title_required">Title is required</string>
+    <string name="author_required">Author is required</string>
+    <string name="description_required">Description is required</string>
+    <string name="image_url_required">Image URL is required</string>
+    <string name="upload_success">Book uploaded successfully!</string>
+    <string name="upload_failed">Upload failed</string>
+    
+    <!-- About Fragment -->
+    <string name="app_version">Version 1.0</string>
+    <string name="about_app">About the App</string>
+    <string name="app_description">Book Sharing Community is a mobile application designed to facilitate book sharing among users. Users can view available books, upload new books with details, and manage their book collection seamlessly.</string>
+    <string name="features">Features</string>
+    <string name="features_list">• View all available books\n• Upload new books with details\n• Real-time Firebase synchronization\n• Material Design UI\n• Easy navigation with Bottom Navigation Bar</string>
+    <string name="developer_info">Developer Information</string>
+    <string name="developer_name">Developer: RANA MUHAMMAD AWAIS</string>
+    <string name="developer_email">Email: rana.16241.ac@iqra.edu.pk</string>
+    <string name="developer_university">University: Iqra University</string>
+    <string name="technology_stack">Technology Stack</string>
+    <string name="tech_list">• Language: Java\n• Database: Firebase Realtime Database\n• UI: Material Design Components\n• Image Loading: Glide Library\n• Architecture: Fragment-based Navigation</string>
+    
+    <!-- General -->
+    <string name="loading">Loading...</string>
+    <string name="error_occurred">An error occurred</string>
+    
+</resources>
